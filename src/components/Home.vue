@@ -20,7 +20,7 @@
                     <p class="pl-55">-Rupert Brooke (The Old Vicarage)</p>
             </p>
             <div class="mt-10 flex gap-4 justify-center pr-25">
-                <router-link to="/about" class="relative inline-block">
+                <router-link to="/about" class="relative inline-block hover:brightness-110 transition-all duration-300">
                     <img src="https://videos.openai.com/vg-assets/assets%2Ftask_01jzj21dcge0db655bfs3pvbyx%2F1751879098_img_1.webp?st=2025-07-07T07%3A31%3A48Z&se=2025-07-13T08%3A31%3A48Z&sks=b&skt=2025-07-07T07%3A31%3A48Z&ske=2025-07-13T08%3A31%3A48Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=8ebb0df1-a278-4e2e-9c20-f2d373479b3a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=oQxrRhNAwTYoiwtGz9IVrOiKBeY21u8WJkxZGTY1nuI%3D&az=oaivgprodscus"
                     alt="Enter the Garden"
                     class="w-40 h-40"/>
