@@ -1,5 +1,6 @@
 <template>
     <section class=" flex flex-col items-center justify-center text-center h-screen w-full bg-[url('https://videos.openai.com/vg-assets/assets%2Ftask_01jzjvf678ft1scv243prv2dy0%2F1751905868_img_0.webp?st=2025-07-07T15%3A00%3A30Z&se=2025-07-13T16%3A00%3A30Z&sks=b&skt=2025-07-07T15%3A00%3A30Z&ske=2025-07-13T16%3A00%3A30Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=8ebb0df1-a278-4e2e-9c20-f2d373479b3a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=m6uIA6XpUDUOcmCtvsN0rHaJL6xMH9Eri0NqsfC%2B%2BNs%3D&az=oaivgprodscus')] bg-center bg-no-repeat bg-cover">
+        <div class="absolute top-0 left-0 w-full h-10 bg-gradient-to-br from-[#f3e700] to-[#eb3c02] blur-3xl pointer-events-none"></div>
         <img src="C:\Users\ASUS\Desktop\VueTailwindTest\vite-project\src\assets\LeftLeaves.png" 
         class="select-none pointer-events-none absolute left-0 top-0 h-full w-48"/>
         <img src="C:\Users\ASUS\Desktop\VueTailwindTest\vite-project\src\assets\RightLeaves.png" 
@@ -20,8 +21,8 @@
                     <p class="pl-55">-Rupert Brooke (The Old Vicarage)</p>
             </p>
             <div class="mt-10 flex gap-4 justify-center pr-25">
-                <router-link to="/about" class="relative inline-block hover:brightness-110 transition-all duration-300">
-                    <img src="https://videos.openai.com/vg-assets/assets%2Ftask_01jzj21dcge0db655bfs3pvbyx%2F1751879098_img_1.webp?st=2025-07-07T07%3A31%3A48Z&se=2025-07-13T08%3A31%3A48Z&sks=b&skt=2025-07-07T07%3A31%3A48Z&ske=2025-07-13T08%3A31%3A48Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=8ebb0df1-a278-4e2e-9c20-f2d373479b3a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=oQxrRhNAwTYoiwtGz9IVrOiKBeY21u8WJkxZGTY1nuI%3D&az=oaivgprodscus"
+                <router-link to="/signup" class="relative inline-block hover:brightness-110 transition-all duration-300">
+                    <img src="C:\Users\ASUS\Desktop\VueTailwindTest\vite-project\src\assets\20250707_1434_Welcoming Garden Door_simple_compose_01jzj21dyaewbbdhzf515zawq3.png"
                     alt="Enter the Garden"
                     class="w-40 h-40"/>
                     <span class="absolute inset-0 flex items-center justify-center font-Frijole bg-gradient-to-r from-[#704f29] via-[#935e38] to-[#c6a47acd] bg-clip-text text-transparent [text-shadow:_1px_1px_0px_#d8c1a5,_1px_1px_0px_#d8c1a5,_-1px_-1px_0px_#00000040] pointer-events-none">
